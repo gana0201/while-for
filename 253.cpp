@@ -10,7 +10,7 @@ int main(void)
 	for (count = 0; pheight < everest; count++)
 		pheight *= 2.0;
 
-	printf("Á¾ÀÌ Á¢´Â È½¼ö = %d \n\n", count);
+	printf("종이 접는 횟수 = %d \n\n", count);
 
 	return 0;
 }
